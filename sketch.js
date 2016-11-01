@@ -6,7 +6,7 @@ var song;
 
 function preload()
 {
-  huey = loadAnimation("assets/Huey_01.png", "assets/Huey_06.png");
+  huey = loadAnimation("assets/huey_01.png", "assets/huey_06.png");
   img = loadImage("assets/blackhole2.jpg");
   song = loadSound("assets/lovelyangel.mp3");
 }
